@@ -12,3 +12,5 @@ The firmware can be found in the "Firmware" folder. All you need to do is hold t
 I have also added the Keyboard folder in case you want to compile it yourself.
 
 as always it will also be in the [Keyboard Dweebs Firmware repository](https://github.com/doesntfazer/Keyboard-Dweebs-Firmware-repository/tree/main) as well. 
+
+Case files for 3d printing can be found in the "3d Models" folder as well.
