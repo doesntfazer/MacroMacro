@@ -19,3 +19,16 @@ I have also added the Keyboard folder in case you want to compile it yourself.
 as always it will also be in the [Keyboard Dweebs Firmware repository](https://github.com/doesntfazer/Keyboard-Dweebs-Firmware-repository/tree/main) as well. 
 
 Case files for 3d printing can be found in the "3d Models" folder as well.
+
+You can use a soldering iron to push the threaded inserts into the case.
+
+# Parts List
+| Part                         | Quantity |
+| --------                     | -------  |
+| PCB                          | x1       |
+| 1N4148W SOD-123 Diodes       | x51      |
+| Kailh Hot Swap Sockets       | x51      |
+|Cherry MX Switches            | x51      |
+|M2x4mmx3.5mm Threaded inserts | x7       |
+| Case                         | x1       |
+| Plate                        | x1       |
