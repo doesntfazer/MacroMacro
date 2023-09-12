@@ -32,3 +32,5 @@ You can use a soldering iron to push the threaded inserts into the case.
 |M2x4mmx3.5mm Threaded inserts | x7       |
 | Case                         | x1       |
 | Plate                        | x1       |
+| M2x10 Screws                 | x5       |
+| M2x6 Screws                  | x2       |
