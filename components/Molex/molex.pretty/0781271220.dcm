@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 0781271220
+D Conn FFC/FPC Connector SKT 12 POS 0.5mm Solder ST SMD Easy-On T/R
+K
+F https://www.molex.com/pdm_docs/sd/781271220_sd.pdf
+$ENDCMP
+#
+#End Doc Library
