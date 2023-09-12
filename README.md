@@ -3,6 +3,11 @@ a large gaming macro pad that runs on Vial
 
 ![](https://i.imgur.com/9tXAabW.jpg)
 
+If you're looking to build one of your own, you can upload the **Macropad-gerber.zip** from the **gerber** folder to JLCPCB. 
+
+If you don't feel like sodering diodes, you can upload the File in the **BOM** folder, along with the **macropad-bottom-pos.csv** in the **PIP** folder. 
+
+You will need to solder in your hot swap sockets though. I didn't use a hot-swap Footprint that was ready for manufacturing, unfortunately. You're welcome to do this if you want to have everything but the MCU assembled by JLCPCB.
 
 This uses a Waveshare RP2040 Zero as its MCU. Please see the image below. As you can see the 2040 is soldered in face down. This is not the conventional way of mounting these. The reason for doing it this way
 is to keep the gamepad thin.
